@@ -41,7 +41,7 @@ void loop() {
     Serial.println("this is being executed");
     
     analogWrite(motorPin,130);//less than 10.3
-    delay(50);
+    delay(25);
     analogWrite(motorPin,0);//less than 10.3
     delay(150);
   }
