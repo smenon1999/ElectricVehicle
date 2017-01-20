@@ -1,10 +1,5 @@
-#include <Encoder.h>
 
-Encoder shaft(2,3);
 const int motorPin=A0;
-
-
-
 
 //measurement in millimeters....
 double distance=12050; //[9000,10000,11000,12000]
