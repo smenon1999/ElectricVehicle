@@ -1,7 +1,7 @@
 
 const int motorPin=A0;
 
-//measurement in millimeters....
+//measurement in millimeters..............................
 double distance=12050; //[9000,10000,11000,12000]
 double circumference=71*PI;
 double numRev=distance/circumference;
